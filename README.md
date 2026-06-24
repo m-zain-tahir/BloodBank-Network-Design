@@ -9,7 +9,6 @@
 | Name | SAP ID |
 |------|--------|
 | Muhammad Zain Tahir | 70174031 |
-|
 
 **Instructor:** Syed Habib Ullah Shah
 **Department:** Software Engineering, University of Lahore
