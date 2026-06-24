@@ -5,13 +5,13 @@
 
 ---
 
-## 👥 Team
+## Master Mind
 | Name | SAP ID |
 |------|--------|
 | Muhammad Zain Tahir | 70174031 |
-| Huzaifa Tanveer | 70173332 |
+|
 
-**Instructor:** Ma'am Ayesha Inayat  
+**Instructor:** Syed Habib Ullah Shah
 **Department:** Software Engineering, University of Lahore
 
 ---
